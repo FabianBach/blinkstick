@@ -1,0 +1,29 @@
+{
+  "name": "asm_blinkstick",
+  "version": "1.0.0",
+  "description": "blinkstick.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianBach/blinkstick.git"
+  },
+  "keywords": [
+    "blinkstick",
+    "node",
+    "led",
+    "rgb",
+    "neopixel"
+  ],
+  "author": "Fabian Bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianBach/blinkstick/issues"
+  },
+  "homepage": "https://github.com/FabianBach/blinkstick#readme",
+  "dependencies": {
+    "blinkstick": "git+https://github.com/FabianBach/blinkstick-node.git"
+  }
+}
